@@ -10,7 +10,7 @@ const client = new MongoClient(connectionStringURI);
 
 let db;
 //need to update db name
-const dbName = "shelterDB";
+const dbName = "socialMongoDB";
 
 client
   .connect()
