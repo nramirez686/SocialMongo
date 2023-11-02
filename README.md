@@ -1,6 +1,9 @@
 # SocialMongo
 
-SocialMongo is a simple social media application that uses MongoDB as its database. It allows users to create, update, and delete thoughts, as well as manage their user profiles. The application is built using Node.js, Express, and Mongoose, and it provides a basic API for performing these actions.
+SocialMongo is a simple social media application that uses MongoDB as its database.
+ It allows users to create, update, and delete thoughts, as well as manage their user 
+ profiles. The application is built using Node.js, Express, and Mongoose, and it provides
+  a basic API for performing these actions.
 
 ## Table of Contents
 
@@ -12,7 +15,9 @@ SocialMongo is a simple social media application that uses MongoDB as its databa
 
 ## Installation
 
-To install code needs to be cloned (git clone https://github.com/nramirez686/SocialMongo) Once cloned change to the projects directory (cd socialMongo) then run npm install to install the packages.
+To install code needs to be cloned (git clone https://github.com/nramirez686/SocialMongo) 
+Once cloned change to the projects directory (cd socialMongo) then run npm install to install 
+the packages.
 
 ## Usage
 
